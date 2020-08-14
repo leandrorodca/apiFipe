@@ -9,3 +9,4 @@ com a biblioteca javascrip zepto.js.
 Rodando a aplicação:
 
 Basta clonar o projeto no diretório raíz do servidor apache.
+E no navegador http://localhost/fipeApi/
