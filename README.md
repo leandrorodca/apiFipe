@@ -10,3 +10,5 @@ Rodando a aplicação:
 
 Basta clonar o projeto no diretório raíz do servidor apache.
 E no navegador http://localhost/fipeApi/
+
+Exemplo criado a partir do curso https://webdesignemfoco.com/cursos/php/api-fipe-1
